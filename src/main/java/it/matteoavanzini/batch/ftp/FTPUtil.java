@@ -1,4 +1,4 @@
-package it.matteoavanzini.ftpbatch;
+package it.matteoavanzini.batch.ftp;
 
 import java.io.File;
 import java.util.List;
